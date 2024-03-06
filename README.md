@@ -7,10 +7,10 @@ Uma fábrica do setor automotivo, na qual um dos membros deste grupo trabalha, t
 Esta análise será realizada com dados reais, para melhorar a performance e agregar valor e propósito prático ao projeto. 
 
 ##Membros do Grupo:
-CARLOS SERGIO DE OLIVEIRA
-DANILO OLIVEIRA ALVES
-EDUARDA CATOIA ARAUJO
-FELIPE DE SOUZA FERRAZ
+CARLOS SERGIO DE OLIVEIRA,
+ DANILO OLIVEIRA ALVES,
+ EDUARDA CATOIA ARAUJO,
+ FELIPE DE SOUZA FERRAZ,
 
 ## Objetivos do projeto:
 
