@@ -6,10 +6,21 @@ Uma fábrica do setor automotivo o qual um dos membros deste grupo trabalha, tem
 
 Nos foram disponibilizados os dados reais, pra melhorar a perfomance e agregando propósito prático para o projeto.
 
+##Membros do Grupo
+CARLOS SERGIO DE OLIVEIRA
+DANILO OLIVEIRA ALVES
+EDUARDA CATOIA ARAUJO
+FELIPE DE SOUZA FERRAZ
+
 
 ## Descrição dos dados a serem apresentados:
 
+Os dados que serão apresentados são oriundos do banco de daods de uma empresa do setor automotivo que atua no Brasil os quais contém:
+CUSTOMER/	CUSTOMER PLANT/	VEHICLE NAME/	SUB FAMILY/	CUSTOMER PN/	SPARE OR ORIGINAL/	ENGINE NR/	PRODUCTION DATE/	INSERVICE DATE/	REPAIR DATE/	CUSTOMER RECORDING DATE/	UPLOAD DATE/	KMS/	REPAIR COUNTRY/	CLIMATE/	TECHNICAL FACTOR/	TOTAL WARRANTY COST €/	LABOR COST €/	MATERIAL COST €/	MIS/	KM/YEAR
+
+
 ## Objetivos do projeto:
 
+Criar um algoritmo que gere gráficamente uma representação das falhas em campo,mostrando o periodo de fabricação dos carros e o tempo até a falha.
 
 
