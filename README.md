@@ -14,6 +14,6 @@ CARLOS SERGIO DE OLIVEIRA,
 
 ## Objetivos do projeto:
 
-A partir de uma base de dados de defeitos apresentados em alternadores automotivos de uma fábrica, e utilizando ferramentas de programação e estatística, realizar a análise exploratória dos dados e do comportamento dos defeitos apresentados pelos alternadores, na tentativa de identificar possíveis padrões, correlações e causas.
+A partir de uma base de dados de defeitos apresentados em alternadores de uma fábrica de peças para automóveis, e utilizando ferramentas de programação e estatística, realizar a análise exploratória dos dados e do comportamento dos defeitos apresentados pelos alternadores, na tentativa de identificar possíveis padrões e correlações que auxiliarão a empresa a melhorar seus processos e aumentar a qualidade de seu produto.
 
 
